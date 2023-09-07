@@ -1,0 +1,19 @@
+{
+    "name": "xea/ema",
+    "require": {
+        "voku/simple_html_dom": "^4.8",
+        "voku/portable-utf8": "^6.0",
+        "thiagoalessio/tesseract_ocr": "^2.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "Xea\\Ema\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Łukasz Stankiewicz",
+            "email": "stankiewicz.lukasz90@gmail.com"
+        }
+    ]
+}
